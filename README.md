@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily missed bug in VHDL: counter overflow. The `counter_bug.vhd` file contains a simple counter that lacks overflow handling.  The `counter_solution.vhd` provides a corrected version.
